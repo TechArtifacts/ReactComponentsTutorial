@@ -15,7 +15,13 @@ Before you start, make sure you have the following installed:
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/[YOUR_USERNAME]/react-components-and-props.git
+git clone https://github.com/TechArtifacts/ReactComponentsTutorial.git
+```
+
+## Move to Project folder
+The react project is located inside the folder react-components-tutorial. Make sure to jump to this folder before moving ahead. 
+```
+cd react-components-tutorial
 ```
 
 ## Install the dependencies:
